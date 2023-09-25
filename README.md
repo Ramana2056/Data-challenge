@@ -1,4 +1,5 @@
-# This file contains the following files:
+# Data_challenge
+## This project contains the following data:
 ## anamolied_detection -- detect_anomalies (used to detect anamolied and return an array of boolean values indicating whether each sample is an anomaly (True) or not (False))
 ## Model: dimensionality_reduction (reduces the dimensions by the top 'n' features)
 ##     : Classifier_Model() (which gives the model which can predict the output class)
